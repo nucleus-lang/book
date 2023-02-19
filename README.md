@@ -8,7 +8,7 @@ The target audience of this book is **from expert programmers, to people that do
 
 So, **without further ado**... If you want to get started and have zero experience in programming, you'll start from the first chapter of the book!
 
-*(TODO: Insert 1st Chapter here...)*
+[Chapter 1: Introduction](Book/Chapter1/0.md)
 
 If you **already have experience with programming**, you can skip the introduction part and start from this chapter.
 
