@@ -1,0 +1,125 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="500px" height="500px" viewBox="0 0 500 500">
+<defs>
+<g id="Layer5_0_FILL">
+<path fill="#444444" stroke="none" d="
+M 397.25 328.1
+L 397.25 337.75 189 337.75 167.35 363 159.2 363 159.2 372.55 377.1 372.55 406.9 337.75 406.9 328.1 397.25 328.1 Z"/>
+</g>
+
+<g id="Layer4_0_FILL">
+<path fill="#666666" stroke="none" d="
+M 377.1 363
+L 406.9 328.2 189 328.2 159.2 363 377.1 363 Z"/>
+</g>
+
+<g id="Layer3_0_FILL">
+<path fill="#666666" stroke="none" d="
+M 439.45 311.95
+L 439.45 123.9 138.35 123.9 138.35 311.95 439.45 311.95
+M 425.9 137.5
+L 425.9 298.45 151.85 298.45 151.85 137.5 425.9 137.5 Z"/>
+
+<path fill="#000000" stroke="none" d="
+M 425.9 298.45
+L 425.9 137.5 151.85 137.5 151.85 298.45 425.9 298.45
+M 174.05 158.45
+L 162.55 169.95 174.05 158.45 162.3 146.7 174.05 158.45 Z"/>
+</g>
+
+<g id="Layer2_0_FILL">
+<path fill="#00BC8C" stroke="none" d="
+M 344.7 337.75
+Q 344.7 328.9 338.45 322.65 332.2 316.4 323.35 316.4 314.5 316.4 308.25 322.65 302 328.9 302 337.75 302 346.6 308.25 352.85 314.5 359.1 323.35 359.1 332.2 359.1 338.45 352.85 344.7 346.6 344.7 337.75
+M 293.15 333.25
+Q 293.15 324.4 286.9 318.15 280.65 311.9 271.8 311.9 262.95 311.9 256.7 318.15 250.45 324.4 250.45 333.25 250.45 342.1 256.7 348.35 262.95 354.6 271.8 354.6 280.65 354.6 286.9 348.35 293.15 342.1 293.15 333.25 Z"/>
+</g>
+
+<g id="Layer1_0_FILL">
+<path fill="#00BC8C" stroke="none" d="
+M 70.2 205.85
+Q 41.6 234.45 41.6 274.9 41.6 315.35 70.2 343.95 98.8 372.55 139.25 372.55 179.7 372.55 208.3 343.95 236.9 315.35 236.9 274.9 236.9 234.45 208.3 205.85 179.7 177.25 139.25 177.25 98.8 177.25 70.2 205.85 Z"/>
+</g>
+
+<g id="Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 185.55 208.15
+Q 187.15 206.6 187.15 204.35 187.15 202.1 185.55 200.5 184 198.95 181.75 198.95 179.5 198.95 177.9 200.5 176.35 202.1 176.35 204.35 176.35 206.6 177.9 208.15 179.5 209.75 181.75 209.75 184 209.75 185.55 208.15 Z"/>
+</g>
+
+<path id="Layer3_0_1_STROKES" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 162.3 146.7
+L 174.05 158.45 162.55 169.95"/>
+
+<path id="Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 207.1 220.15
+L 193.05 233.7"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Consolas
+Vendor ID: MS  
+© 2018 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts/default.aspx
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=Consolas&PSName=Consolas&applanguage=en_US-->
+<font-face font-family="Consolas_Regular" units-per-em="2048" ascent="1884" descent="514"/>
+
+<glyph unicode="?" horiz-adv-x="1126" d="
+M 487 246
+Q 515 246 539 235 563 225 581 207 598 189 608 164 618 140 618 113 618 86 608 62 598 38 581 20 563 3 539 -8 515 -18 487 -18 460 -18 436 -8 412 3 394 20 376 38 366 62 356 86 356 113 356 140 366 164 376 189 394 207 412 225 436 235 460 246 487 246 Z
+M 922 969
+Q 922 807 832 723 742 640 571 629
+L 563 383 414 383 401 766 518 766
+Q 579 766 620 779 661 792 686 816 711 840 722 874 733 909 733 952 733 1025 703 1082 673 1139 619 1178 565 1217 491 1237 416 1257 328 1257
+L 303 1257 303 1413 330 1413
+Q 431 1413 515 1394 598 1375 664 1342 729 1310 778 1266 826 1222 859 1173 891 1124 907 1071 922 1019 922 969 Z"/>
+</font>
+</defs>
+
+<g id="Layer_4">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer5_0_FILL"/>
+</g>
+</g>
+
+<g id="Layer_5">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer4_0_FILL"/>
+</g>
+</g>
+
+<g id="Layer_2">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer3_0_FILL"/>
+
+<use xlink:href="#Layer3_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 0.86602783203125, -0.499969482421875, 0.499969482421875, 0.86602783203125, 32.7,149.05) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-10.1" y="-2" width="83.4" height="60.2" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="-8" y="44.15" baseline-shift="0%" kerning="auto" font-family="Consolas_Regular" font-size="48" fill="#FFFFFF" xml:space="preserve">???</tspan></text>
+</g>
+</g>
+
+<g id="Layer_6">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_0_FILL"/>
+</g>
+</g>
+
+<g id="Layer_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer1_0_FILL"/>
+</g>
+</g>
+
+<g id="Layer_3">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+
+<use xlink:href="#Layer0_0_1_STROKES"/>
+</g>
+</g>
+</svg>
